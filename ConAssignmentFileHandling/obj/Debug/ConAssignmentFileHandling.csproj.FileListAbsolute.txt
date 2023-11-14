@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day7\ConAssignmentFileHandling\ConAssignmentFileHandling\obj\Debug\ConAssignmentFileHandling.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day7\ConAssignmentFileHandling\ConAssignmentFileHandling\obj\Debug\ConAssignmentFileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day7\ConAssignmentFileHandling\ConAssignmentFileHandling\bin\Debug\ConAssignmentFileHandling.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day7\ConAssignmentFileHandling\ConAssignmentFileHandling\bin\Debug\ConAssignmentFileHandling.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day7\ConAssignmentFileHandling\ConAssignmentFileHandling\bin\Debug\ConAssignmentFileHandling.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day7\ConAssignmentFileHandling\ConAssignmentFileHandling\obj\Debug\ConAssignmentFileHandling.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day7\ConAssignmentFileHandling\ConAssignmentFileHandling\obj\Debug\ConAssignmentFileHandling.pdb
